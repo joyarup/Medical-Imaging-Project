@@ -37,4 +37,6 @@
 
 ```bash
 pip install numpy matplotlib scipy scikit-image pydicom pyyaml tqdm
+```
 
+WIP
